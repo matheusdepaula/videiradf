@@ -3,7 +3,6 @@
   "name": "Videira Igreja em Células DF",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://matheusdepaula.github.io/videira_covid19",
   "icons": [
     {
       "src": "logo_vid.ico",
