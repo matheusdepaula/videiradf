@@ -16,10 +16,6 @@
       "sizes": "192x192"
     }
   ],
-  "scripts": {
-		"predeploy": "yarn run build",
-    "deploy": "gh-pages -d build"
-  },
   "eslintConfig": {
     "extends": "react-app"
   },
