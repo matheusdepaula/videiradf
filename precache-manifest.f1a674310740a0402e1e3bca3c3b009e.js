@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "13ec088d74164f763268604c51732d31",
+    "revision": "c672560c13ce1944c11ea7eadfaeaa2f",
     "url": "/videiradf/index.html"
   },
   {
-    "revision": "09d7295f8bbaf58d4010",
-    "url": "/videiradf/static/css/main.206389cf.chunk.css"
+    "revision": "e8cdba44a97ddb5650f8",
+    "url": "/videiradf/static/css/main.ab33f284.chunk.css"
   },
   {
-    "revision": "82dca2d76c87fed124b4",
-    "url": "/videiradf/static/js/2.ff7c1ba0.chunk.js"
+    "revision": "972fed113aa9e2a5b6f6",
+    "url": "/videiradf/static/js/2.8ac42a3d.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/videiradf/static/js/2.ff7c1ba0.chunk.js.LICENSE.txt"
+    "url": "/videiradf/static/js/2.8ac42a3d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "09d7295f8bbaf58d4010",
-    "url": "/videiradf/static/js/main.5ef99afd.chunk.js"
+    "revision": "e8cdba44a97ddb5650f8",
+    "url": "/videiradf/static/js/main.b1f2665f.chunk.js"
   },
   {
     "revision": "3e10a2f7ef957f334d33",
