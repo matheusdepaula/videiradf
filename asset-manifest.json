@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/videira_covid19/static/css/main.206389cf.chunk.css",
-    "main.js": "/videira_covid19/static/js/main.338778a9.chunk.js",
-    "main.js.map": "/videira_covid19/static/js/main.338778a9.chunk.js.map",
-    "runtime-main.js": "/videira_covid19/static/js/runtime-main.50ed4261.js",
-    "runtime-main.js.map": "/videira_covid19/static/js/runtime-main.50ed4261.js.map",
-    "static/js/2.ff7c1ba0.chunk.js": "/videira_covid19/static/js/2.ff7c1ba0.chunk.js",
-    "static/js/2.ff7c1ba0.chunk.js.map": "/videira_covid19/static/js/2.ff7c1ba0.chunk.js.map",
-    "index.html": "/videira_covid19/index.html",
-    "precache-manifest.e0f1b68b9d430b4f107c2ddc1cd1d859.js": "/videira_covid19/precache-manifest.e0f1b68b9d430b4f107c2ddc1cd1d859.js",
-    "service-worker.js": "/videira_covid19/service-worker.js",
-    "static/css/main.206389cf.chunk.css.map": "/videira_covid19/static/css/main.206389cf.chunk.css.map",
-    "static/js/2.ff7c1ba0.chunk.js.LICENSE.txt": "/videira_covid19/static/js/2.ff7c1ba0.chunk.js.LICENSE.txt",
-    "static/media/videiraLogo.png": "/videira_covid19/static/media/videiraLogo.4521451d.png"
+    "main.css": "/videiradf/static/css/main.206389cf.chunk.css",
+    "main.js": "/videiradf/static/js/main.5ef99afd.chunk.js",
+    "main.js.map": "/videiradf/static/js/main.5ef99afd.chunk.js.map",
+    "runtime-main.js": "/videiradf/static/js/runtime-main.6200f038.js",
+    "runtime-main.js.map": "/videiradf/static/js/runtime-main.6200f038.js.map",
+    "static/js/2.ff7c1ba0.chunk.js": "/videiradf/static/js/2.ff7c1ba0.chunk.js",
+    "static/js/2.ff7c1ba0.chunk.js.map": "/videiradf/static/js/2.ff7c1ba0.chunk.js.map",
+    "index.html": "/videiradf/index.html",
+    "precache-manifest.b59fcb64bf3951c8db031c841ee3eba8.js": "/videiradf/precache-manifest.b59fcb64bf3951c8db031c841ee3eba8.js",
+    "service-worker.js": "/videiradf/service-worker.js",
+    "static/css/main.206389cf.chunk.css.map": "/videiradf/static/css/main.206389cf.chunk.css.map",
+    "static/js/2.ff7c1ba0.chunk.js.LICENSE.txt": "/videiradf/static/js/2.ff7c1ba0.chunk.js.LICENSE.txt",
+    "static/media/videiraLogo.png": "/videiradf/static/media/videiraLogo.4521451d.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.50ed4261.js",
+    "static/js/runtime-main.6200f038.js",
     "static/js/2.ff7c1ba0.chunk.js",
     "static/css/main.206389cf.chunk.css",
-    "static/js/main.338778a9.chunk.js"
+    "static/js/main.5ef99afd.chunk.js"
   ]
 }
